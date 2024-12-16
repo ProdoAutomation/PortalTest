@@ -1,0 +1,68 @@
+[2024-11-28T09:36:38.8230317Z][INFO] :: FRAMEWORK FOUND :: CSharp-nunit 
+[2024-11-28T09:36:38.8260795Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "intijnagrppr0wynxa3ekafy1f6xzwy2ln0gnz6a",
+  "observability_version": {
+    "frameworkName": "CSharp-nunit",
+    "sdkVersion": "1.16.5",
+    "frameworkVersion": "3.14.0"
+  }
+} 
+[2024-11-28T09:36:39.2302833Z][ERROR] :: Error While Receiving Driver Object Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at BrowserStackSDK.TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at BrowserStackSDK.TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver, String fullyQualifiedName, String displayName) 
+[2024-11-28T09:36:39.9727716Z][INFO] :: FRAMEWORK FOUND :: CSharp-nunit 
+[2024-11-28T09:36:39.9744317Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "intijnagrppr0wynxa3ekafy1f6xzwy2ln0gnz6a",
+  "observability_version": {
+    "frameworkName": "CSharp-nunit",
+    "sdkVersion": "1.16.5",
+    "frameworkVersion": "3.14.0"
+  }
+} 
+[2024-11-28T09:36:40.3903169Z][ERROR] :: Error While Receiving Driver Object Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2024-11-28T09:36:40.4772660Z][INFO] :: All events uploaded successfully for current test 
+[2024-11-28T09:36:40.4981655Z][INFO] :: FRAMEWORK FOUND :: CSharp-nunit 
+[2024-11-28T09:36:40.4989095Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "intijnagrppr0wynxa3ekafy1f6xzwy2ln0gnz6a",
+  "observability_version": {
+    "frameworkName": "CSharp-nunit",
+    "sdkVersion": "1.16.5",
+    "frameworkVersion": "3.14.0"
+  }
+} 
+[2024-11-28T09:36:40.8969890Z][ERROR] :: Error While Receiving Driver Object Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 

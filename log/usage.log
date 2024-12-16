@@ -1,0 +1,354 @@
+2024-11-27 17:58:25.2581|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 17:58:26.8267|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-27 17:58:26.8267|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-27 17:58:26.9404|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-27 17:58:27.0671|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-27 17:58:27.0671|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-27 17:58:27.0671|INFO|browserstack_sdk.Program|SetupObservability: Observability setup completed.
+2024-11-27 17:58:27.0802|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:04:43.3188|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:04:44.7935|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-27 18:04:44.7935|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-27 18:04:44.9028|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-27 18:04:45.0218|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-27 18:04:45.0218|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-27 18:04:45.0218|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-27 18:04:45.0218|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:04:54.3040|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:04:55.8056|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-27 18:04:55.8056|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-27 18:04:55.9572|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-27 18:04:56.1015|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-27 18:04:56.1015|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-27 18:04:56.1015|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-27 18:04:56.1015|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:05:00.5839|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 30060
+2024-11-27 18:05:00.6125|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-27 18:05:02.1921|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-27 18:05:02.1921|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-27 18:05:02.3252|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-27 18:05:02.4745|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-27 18:05:02.4745|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-27 18:05:02.4745|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-27 18:05:02.4745|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.19045.0, Process Arch: X64, System Arch: X64
+2024-11-27 18:05:04.0519|INFO|browserstack_sdk.Program|Starting local
+2024-11-27 18:05:08.0400|INFO|browserstack_sdk.Program|Local started
+2024-11-27 18:05:08.7371|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: 6gfwenhhr6imxru664e8gfiwqzdxbk22adykue3f
+2024-11-27 18:05:08.8369|INFO|browserstack_sdk.utils|Level of Parallelism setting to 1
+2024-11-27 18:05:08.8369|INFO|browserstack_sdk.utils|Scope of Parallelism setting to NUnit.Framework.ParallelScope
+2024-11-27 18:05:08.8880|INFO|browserstack_sdk.utils|ParallelsPerPlatform has been set successfully
+2024-11-27 18:05:15.6610|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.tests.Authentication.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Loginwithcrd [2 s]
+  Error Message:
+   System.NullReferenceException : Object reference not set to an instance of an object.
+  Stack Trace:
+     at PortalNunit.tests.Authentication.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 2 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-27 18:05:45.9190|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.tests.Authentication.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+https://portaldemo.prodo.com/
+lewis.moorcroft+tenant@prodo.com
+
+  Failed Loginwithcrd [32 s]
+  Error Message:
+   OpenQA.Selenium.NoSuchElementException : Could not find element by: By.Id: signInName; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at PortalNunit.tests.Authentication.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ https://portaldemo.prodo.com/
+ lewis.moorcroft+tenant@prodo.com
+
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 32 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-27 18:06:04.3607|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.tests.Authentication.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+https://prododemo.b2clogin.com/prododemo.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_tenant_dev&client_id=3485a2f4-08a0-47b0-94d7-073b2eec1f9b&redirect_uri=https%3A%2F%2Fportaldemo.prodo.com%2Fumbraco-b2c-tenant-signin&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638683275602957748.MWY4YzIzMTAtOWFlYi00ZjI4LWE4MTktMjZjN2Y3YTJkY2YyOGE2MTM4YzEtMDU0NS00MjYyLThhNzAtMGI0MTgxNGIwMTVj&state=CfDJ8AmW-tnh0EhJsoH8FXIpdnez_0jQv0uMtqKFDUA-u4k3IAzer0up9wlKAM9ijMDw_BGHcm7suT1Rqt7kjNc0vnw146CSt5ICjX0i6VzzwF6ubLOEnxpjpY6PPNdocBTxtn8I6VB_2Fvyxk0m4D8iHkchuz8ymm7wkAD4L2xZsatZWyMNpGP-CDWR5eohB6TIvvYZeWrmY47fYaYZ4qN3QyNYbGkvxgzbXZ67L4wN4uMflyyyTWwt56UYuYL_bp16tkT4etkQfccO-pnqR_f8LngCmhQdXa5CgK7e7XnTwpSChfGgCD3cOyFdOBvVcFztT1gdDF2eCj9mC2gEeNyQ2r3uExkMPhxLxTd5-0_2hLOo0Ew-BF7hnMOAmnWAV3T9qn6FKxvXLDxLu8J1a6U2WhUqriTpHafIVUaP0RMyGeaz_zD9NAz31VrsFt4SjG1vNadOu8P1Hc1H4axaTGHgrIk5yWiJd-DYBUmGNjXjO4epznam4HvyQ3u9XY13dYOGJ2p58DtUnXl1AMTa22-j8BWn7lpaToFD3WFspn84h5RtxviPIr8JY1o0k_dL076hveXaDNaCylguFO0Qp5Nk0lTzk04PUPVlXMNX8AKRNjOe_K8StOHEwrTWKCefto2FxhUo-er2vN0FZGJ3hWJ_Ad8adtCDxDmM49gt5ww8MoNd&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+lewis.moorcroft+tenant@prodo.com
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 51 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-27 18:06:04.3624|INFO|browserstack_sdk.Program|Stopping local
+2024-11-27 18:06:07.2609|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/6gfwenhhr6imxru664e8gfiwqzdxbk22adykue3f to view build report
+2024-11-27 18:06:07.5142|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fc2de05acd93430d3d71564c68b1b3304f912bc0
+2024-11-28 09:36:17.4642|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-28 09:36:19.1082|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-28 09:36:19.1082|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-28 09:36:19.2154|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-28 09:36:19.3643|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-28 09:36:19.3643|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-28 09:36:19.3643|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-28 09:36:19.3765|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-28 09:36:27.2443|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 31612
+2024-11-28 09:36:27.2763|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-28 09:36:28.9669|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-28 09:36:28.9669|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-28 09:36:29.0919|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-28 09:36:29.2110|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-28 09:36:29.2110|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-28 09:36:29.2110|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-28 09:36:29.2110|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.19045.0, Process Arch: X64, System Arch: X64
+2024-11-28 09:36:30.9059|INFO|browserstack_sdk.Program|Starting local
+2024-11-28 09:36:34.4206|INFO|browserstack_sdk.Program|Local started
+2024-11-28 09:36:35.0156|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: intijnagrppr0wynxa3ekafy1f6xzwy2ln0gnz6a
+2024-11-28 09:36:35.0954|INFO|browserstack_sdk.utils|Level of Parallelism setting to 1
+2024-11-28 09:36:35.0954|INFO|browserstack_sdk.utils|Scope of Parallelism setting to NUnit.Framework.ParallelScope
+2024-11-28 09:36:35.1451|INFO|browserstack_sdk.utils|ParallelsPerPlatform has been set successfully
+2024-11-28 09:36:41.0117|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Loginwithcrd [2 s]
+  Error Message:
+   System.NullReferenceException : Object reference not set to an instance of an object.
+  Stack Trace:
+     at PortalNunit.Features.Authentication.Test.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 2 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:37:13.6400|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+https://portaldemo.prodo.com/
+
+  Failed Loginwithcrd [35 s]
+  Error Message:
+   OpenQA.Selenium.NoSuchElementException : Could not find element by: By.Id: signInName; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at PortalNunit.Features.Authentication.Test.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ https://portaldemo.prodo.com/
+
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 35 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:37:43.4675|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+https://prododemo.b2clogin.com/prododemo.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_tenant_dev&client_id=3485a2f4-08a0-47b0-94d7-073b2eec1f9b&redirect_uri=https%3A%2F%2Fportaldemo.prodo.com%2Fumbraco-b2c-tenant-signin&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638683834594947303.MjgxODFjNTktNGE4YS00ODQ3LTg4MTMtOGQ5ZGMyMDA0YTMyNDNhYjIzNDItMWMyYy00OGUyLWE0MTUtY2NkNGZhZTFlZTM4&state=CfDJ8AmW-tnh0EhJsoH8FXIpdnfnCg29rqHyu_x2JqB0rl1i3BA476l1zrEdvIbHF-WvX5YATB9-nTfqh3jKGO34sW8iuzh1st-Mirw0w6k0cAivVLQI31Yf0q5ph_bOxPaoAlfNqKZLP3ra_HTKNXyeZCsIxQmp6ndk3Nrd2g8v892SIVGvvz1HDbzsOgsFtYnN-idiMXBjkU4UeKrFe7TpVB5fhdcp3H4mxl3af9HmUjpDIWXmRCARqrLB8l-z_bi1FadE5oZkiyZypHdq6hkwOcFan8wU1xwBqbo8z5bj0UUZQuwQgUzwIVeecpRZrhMyM-1hTQJQvUXfMnicuDaXFRjhSRpr4rDsMCk7HDjNzyK_pcb2Iv5E8g51eulnE8LNjus9ldlbrDfniDIvMVBlwOvv8OJUo-juaOU7XwjO-rTH1PI05UtTLZUvLuWCT36E7vHuJkqzZvYfCdTswWeM4liRoCr6XVcWgYMAsj2Xw7uL1s7mCR31PJECiYl6K4GaOWTQOVWZJbSqwjc99KC46A8ViZoH6ggafDbnYC-c3ZnQF_7XwKbBhrWeuA5mfA7uhPGf9l9hzgdnpAhy3_KjKB_7vJPYu_uuEz-eByGqthdW3cbCLUhULB5hs9QGCvxyJWnLa9iXTK4hBZvQxz06D9xp0l-p2pQPEHWuLEbxWVHg&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+
+  Failed Loginwithcrd [1 m 5 s]
+  Error Message:
+   System.ArgumentNullException : Value cannot be null. (Parameter 'value')
+  Stack Trace:
+     at PortalNunit.Features.Authentication.Test.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ https://prododemo.b2clogin.com/prododemo.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_tenant_dev&client_id=3485a2f4-08a0-47b0-94d7-073b2eec1f9b&redirect_uri=https%3A%2F%2Fportaldemo.prodo.com%2Fumbraco-b2c-tenant-signin&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638683834594947303.MjgxODFjNTktNGE4YS00ODQ3LTg4MTMtOGQ5ZGMyMDA0YTMyNDNhYjIzNDItMWMyYy00OGUyLWE0MTUtY2NkNGZhZTFlZTM4&state=CfDJ8AmW-tnh0EhJsoH8FXIpdnfnCg29rqHyu_x2JqB0rl1i3BA476l1zrEdvIbHF-WvX5YATB9-nTfqh3jKGO34sW8iuzh1st-Mirw0w6k0cAivVLQI31Yf0q5ph_bOxPaoAlfNqKZLP3ra_HTKNXyeZCsIxQmp6ndk3Nrd2g8v892SIVGvvz1HDbzsOgsFtYnN-idiMXBjkU4UeKrFe7TpVB5fhdcp3H4mxl3af9HmUjpDIWXmRCARqrLB8l-z_bi1FadE5oZkiyZypHdq6hkwOcFan8wU1xwBqbo8z5bj0UUZQuwQgUzwIVeecpRZrhMyM-1hTQJQvUXfMnicuDaXFRjhSRpr4rDsMCk7HDjNzyK_pcb2Iv5E8g51eulnE8LNjus9ldlbrDfniDIvMVBlwOvv8OJUo-juaOU7XwjO-rTH1PI05UtTLZUvLuWCT36E7vHuJkqzZvYfCdTswWeM4liRoCr6XVcWgYMAsj2Xw7uL1s7mCR31PJECiYl6K4GaOWTQOVWZJbSqwjc99KC46A8ViZoH6ggafDbnYC-c3ZnQF_7XwKbBhrWeuA5mfA7uhPGf9l9hzgdnpAhy3_KjKB_7vJPYu_uuEz-eByGqthdW3cbCLUhULB5hs9QGCvxyJWnLa9iXTK4hBZvQxz06D9xp0l-p2pQPEHWuLEbxWVHg&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 1 m 5 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:37:43.4675|INFO|browserstack_sdk.Program|Stopping local
+2024-11-28 09:37:46.3845|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/intijnagrppr0wynxa3ekafy1f6xzwy2ln0gnz6a to view build report
+2024-11-28 09:37:46.5928|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/36346680c6b612a3707d4e7badba39b91a16dcb1
+2024-11-28 09:40:35.3297|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 25344
+2024-11-28 09:40:35.3583|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-11-28 09:40:36.9546|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-11-28 09:40:36.9546|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-11-28 09:40:37.0703|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.404
+2024-11-28 09:40:37.1978|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll
+2024-11-28 09:40:37.1978|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-11-28 09:40:37.1978|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-11-28 09:40:37.1978|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.19045.0, Process Arch: X64, System Arch: X64
+2024-11-28 09:40:38.9574|INFO|browserstack_sdk.Program|Starting local
+2024-11-28 09:40:42.1966|INFO|browserstack_sdk.Program|Local started
+2024-11-28 09:40:42.7510|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: zdnwika2t8sznj32dlulvdvhef5bfoidzz9g0yke
+2024-11-28 09:40:42.8285|INFO|browserstack_sdk.utils|Level of Parallelism setting to 1
+2024-11-28 09:40:42.8718|INFO|browserstack_sdk.utils|ParallelsPerPlatform has been set successfully
+2024-11-28 09:40:43.3322|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Host debugging is enabled. Please attach debugger to testhost process to continue.
+Process Id: 15724, Name: testhost
+
+2024-11-28 09:40:45.7720|INFO|browserstack_sdk.utils|Debugger attached to 15724
+2024-11-28 09:40:48.2954|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Loginwithcrd [2 s]
+  Error Message:
+   System.NullReferenceException : Object reference not set to an instance of an object.
+  Stack Trace:
+     at PortalNunit.Features.Authentication.Test.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 2 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:41:04.3503|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: Adapter process exited, exiting cli process
+2024-11-28 09:41:04.3503|INFO|browserstack_sdk.Program|Stopping local
+2024-11-28 09:41:04.4597|INFO|browserstack_sdk.Program|Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:41:05.7106|INFO|browserstack_sdk.Program|
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "running bat file" 
+"running bat file"
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>cd C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit 
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>dotnet test "C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\PortalNunit.dll" --filter "(FullyQualifiedName=PortalNunit.Features.Authentication.Test.Login.Loginwithcrd)" --settings "C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\.runsettings" --no-build  "--logger:trx;LogFileName=C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml" 
+The following arguments have been ignored : "--no-build"
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+https://prododemo.b2clogin.com/prododemo.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_tenant_dev&client_id=3485a2f4-08a0-47b0-94d7-073b2eec1f9b&redirect_uri=https%3A%2F%2Fportaldemo.prodo.com%2Fumbraco-b2c-tenant-signin&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638683836583917070.MmIyODM3NjctNmMwNi00N2NmLThjYWItNzQ0Y2M1NTYzY2E3N2RhZjE1ZmMtMjE1MC00YzNlLWE2Y2QtOTdkYzE4YTNlYWY5&state=CfDJ8AmW-tnh0EhJsoH8FXIpdnc69hm9tsRwqJ54VgzbVrXy7clm8--qMO2s01iYalbG6YU5dnkHAO7hy0Pt7m731-zPljNsqktm2Cz5TIVGrG1SGLggAQZmzTlBjlDcPpB38VWJSQqqzCxKMIV0Fjt55GSCIXA4wM-Ufn5sqKALBhVY8RzjbVHXIqWd3T0Jsw9eQ7xDiuf3MAhLjfEvZBqTXOMA-tOTRTBJ__aqMUQlijV5bc79vmmyB0igwcPVFd-w94Ix0I_gSSbyKhFlrTKRBOkT1jb2lOru0EJmV7l9axgGVtghhU8GjDyq-I9ry8QP99v0i5zH-PNR8CAa3AoMpKSDnSAVPcBGBq8CXpcrEvysYgaCKwjzrKESF-DhSaSpQkDZoP0N8DoMMCKXc3_S5rFF40245OcuDalYF6VZJjQHQKrEdA11M8R_GkewfT9lYbIxChKbqs5Y4XUa9hlaN6TLP6Ehi1Qk9BA2445hxelRah2a6lfFlGKTZYiXiHgxqmzbMjEMU6IG4DJA9xh6nrK3THzQ33P3_n6NmWbBDT2JLfNU9cxgTRMRFdpNBFgwmru0WIkzh7Ijsqidv-e3xXCCEHH7xE4bU2OIhudvQ-2Ass6KcusaDHS7K6dtE4_d-uvLPpqGCP8l3UVDzujMGNhis83C6E-bbap1fNQEYBPi&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+
+  Failed Loginwithcrd [20 s]
+  Error Message:
+   System.ArgumentNullException : Value cannot be null. (Parameter 'value')
+  Stack Trace:
+     at PortalNunit.Features.Authentication.Test.Login.Loginwithcrd(Login this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ https://prododemo.b2clogin.com/prododemo.onmicrosoft.com/oauth2/v2.0/authorize?p=b2c_1a_signup_signin_tenant_dev&client_id=3485a2f4-08a0-47b0-94d7-073b2eec1f9b&redirect_uri=https%3A%2F%2Fportaldemo.prodo.com%2Fumbraco-b2c-tenant-signin&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638683836583917070.MmIyODM3NjctNmMwNi00N2NmLThjYWItNzQ0Y2M1NTYzY2E3N2RhZjE1ZmMtMjE1MC00YzNlLWE2Y2QtOTdkYzE4YTNlYWY5&state=CfDJ8AmW-tnh0EhJsoH8FXIpdnc69hm9tsRwqJ54VgzbVrXy7clm8--qMO2s01iYalbG6YU5dnkHAO7hy0Pt7m731-zPljNsqktm2Cz5TIVGrG1SGLggAQZmzTlBjlDcPpB38VWJSQqqzCxKMIV0Fjt55GSCIXA4wM-Ufn5sqKALBhVY8RzjbVHXIqWd3T0Jsw9eQ7xDiuf3MAhLjfEvZBqTXOMA-tOTRTBJ__aqMUQlijV5bc79vmmyB0igwcPVFd-w94Ix0I_gSSbyKhFlrTKRBOkT1jb2lOru0EJmV7l9axgGVtghhU8GjDyq-I9ry8QP99v0i5zH-PNR8CAa3AoMpKSDnSAVPcBGBq8CXpcrEvysYgaCKwjzrKESF-DhSaSpQkDZoP0N8DoMMCKXc3_S5rFF40245OcuDalYF6VZJjQHQKrEdA11M8R_GkewfT9lYbIxChKbqs5Y4XUa9hlaN6TLP6Ehi1Qk9BA2445hxelRah2a6lfFlGKTZYiXiHgxqmzbMjEMU6IG4DJA9xh6nrK3THzQ33P3_n6NmWbBDT2JLfNU9cxgTRMRFdpNBFgwmru0WIkzh7Ijsqidv-e3xXCCEHH7xE4bU2OIhudvQ-2Ass6KcusaDHS7K6dtE4_d-uvLPpqGCP8l3UVDzujMGNhis83C6E-bbap1fNQEYBPi&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+
+
+Results File: C:\Users\RajalakshmiGanesan\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 20 s - PortalNunit.dll (net8.0)
+
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit>echo "completed bat file" 
+"completed bat file"
+
+2024-11-28 09:41:05.7106|INFO|browserstack_sdk.Program|Stopping local
+2024-11-28 09:41:06.7023|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/zdnwika2t8sznj32dlulvdvhef5bfoidzz9g0yke to view build report

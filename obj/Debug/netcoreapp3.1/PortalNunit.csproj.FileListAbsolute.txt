@@ -1,0 +1,5 @@
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\obj\Debug\netcoreapp3.1\PortalNunit.csproj.AssemblyReference.cache
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\obj\Debug\netcoreapp3.1\PortalNunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\obj\Debug\netcoreapp3.1\PortalNunit.AssemblyInfoInputs.cache
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\obj\Debug\netcoreapp3.1\PortalNunit.AssemblyInfo.cs
+C:\Users\RajalakshmiGanesan\source\repos\PortalNunit\PortalNunit\obj\Debug\netcoreapp3.1\PortalNunit.csproj.CoreCompileInputs.cache
